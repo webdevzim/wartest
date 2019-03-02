@@ -1,0 +1,6 @@
+C:\Disc\WarTest\WarTestRules\bin\Debug\WarTestRules.dll
+C:\Disc\WarTest\WarTestRules\bin\Debug\WarTestRules.pdb
+C:\Disc\WarTest\WarTestRules\obj\Debug\WarTestRules.csprojResolveAssemblyReference.cache
+C:\Disc\WarTest\WarTestRules\obj\Debug\WarTestRules.csproj.CoreCompileInputs.cache
+C:\Disc\WarTest\WarTestRules\obj\Debug\WarTestRules.dll
+C:\Disc\WarTest\WarTestRules\obj\Debug\WarTestRules.pdb
